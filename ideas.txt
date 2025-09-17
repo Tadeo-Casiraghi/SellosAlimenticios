@@ -1,0 +1,77 @@
+🔹 Sobre tu propia base de datos
+
+Distribución de sellos por categoría
+
+% de productos con 1, 2, 3, 4, 5 sellos.
+
+Separar con/sin calorías excesivas.
+
+Podés mostrarlo como histograma de barras o un gráfico de torta.
+
+Comparación entre categorías
+
+Ej: “Bebidas”, “Snacks”, “Lácteos”, etc.
+
+% de productos con exceso de azúcares, sodio, grasas, calorías.
+
+Esto pega fuerte si, por ejemplo, casi todas las gaseosas tienen exceso de azúcar.
+
+Productos sin sellos
+
+¿Qué % del total son realmente “limpios”?
+
+Eso refuerza la idea de que casi todo lo procesado tiene advertencias.
+
+🔹 Datos de contexto (Argentina)
+
+📊 Obesidad y sobrepeso
+
+Según la 4° Encuesta Nacional de Factores de Riesgo (2019):
+
+66% de los adultos tienen sobrepeso u obesidad.
+
+13,6% de los niños en edad escolar tienen obesidad.
+
+Mostrarlo con un gráfico sencillo (ej: siluetas coloreadas de personas).
+
+🏫 Consumo infantil
+
+En chicos, la principal fuente de calorías proviene de bebidas azucaradas, snacks, galletitas.
+
+💡 Impacto esperado de la Ley de Etiquetado
+
+Mayor conciencia del consumidor.
+
+Incentivo a reformulación de productos (menos sal, azúcar, grasas).
+
+🔹 Info sobre los sellos
+
+Explicar brevemente los octógonos negros:
+
+Exceso en: azúcares, grasas, grasas saturadas, sodio, calorías.
+
+“Contiene edulcorantes” o “Contiene cafeína” (cuando aplica).
+
+Podés poner un ejemplo visual real:
+
+Foto de un envase con varios sellos → es muy gráfico y llama la atención.
+
+🔹 Crítica sobre ultraprocesados
+
+Una frase corta con respaldo científico:
+
+“El 70% de los productos en góndola son ultraprocesados”.
+
+“Mayor consumo de ultraprocesados se asocia con mayor riesgo de obesidad, diabetes y enfermedades cardiovasculares”.
+
+Fuente: OPS/OMS, 2019.
+
+🔹 Recursos visuales atractivos
+
+Mapa de Argentina → marcar provincias donde se producen más alimentos registrados.
+
+Ranking → categorías con más productos con sellos.
+
+Timeline → evolución desde la implementación de la ley (si tenés datos de antes/después).
+
+👉 Si querés, te puedo armar un mockup de la estructura del afiche (con secciones y tipos de gráficos recomendados) para que lo uses como guía de diseño. ¿Querés que te lo bosqueje?
